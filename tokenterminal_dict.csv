@@ -1,0 +1,574 @@
+,Curve,MakerDAO,Convex Finance,AAVE,WBTC,Instadapp,Polygon Bridge & Staking,Lido,Compound,Uniswap,Yearn Finance,AnySwap,Liquity,JustCryptos,Flexa,Synthetix,Marinade Finance,Mirror,DefiSaver,Stacks Staking,Armor,Nexus Mutual,Sablier Finance,Set Protocol,Index Coop,Ribbon Finance,Opyn,Kava Lend,Lightning Network,Wrapped BNB,Superfluid,Injective Protocol,PoolTogether,Cardstarter,Connext,Polymarket,CVI Finance,Yam Finance,EvolutionLand,LoTerra,WeStarter,BorgSwap,Decubate,AtmosSoft
+0,"                      datetime project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00   Curve         total  ...       181517.193522    183780.837159             None
+1    2021-12-15T00:00:00+00:00   Curve         total  ...       210100.982236    212659.413368             None
+2    2021-12-14T00:00:00+00:00   Curve         total  ...       145070.431526    147142.507383             None
+3    2021-12-13T00:00:00+00:00   Curve         total  ...       145098.136014    147305.521632             None
+4    2021-12-12T00:00:00+00:00   Curve         total  ...        98667.741561     99117.584107             None
+..                         ...     ...           ...  ...                 ...              ...              ...
+485  2020-08-18T00:00:00+00:00   Curve         total  ...                 NaN              NaN             None
+486  2020-08-17T00:00:00+00:00   Curve         total  ...                 NaN              NaN             None
+487  2020-08-16T00:00:00+00:00   Curve         total  ...                 NaN              NaN             None
+488  2020-08-15T00:00:00+00:00   Curve         total  ...                 NaN              NaN             None
+489  2020-08-14T00:00:00+00:00   Curve         total  ...                 NaN              NaN             None
+
+[490 rows x 23 columns]","                       datetime   project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  MakerDAO         total  ...           17.256411    406366.070458             None
+1     2021-12-15T00:00:00+00:00  MakerDAO         total  ...           16.769589    406272.072503             None
+2     2021-12-14T00:00:00+00:00  MakerDAO         total  ...           15.863425    409039.774817             None
+3     2021-12-13T00:00:00+00:00  MakerDAO         total  ...           15.317659    411576.106458             None
+4     2021-12-12T00:00:00+00:00  MakerDAO         total  ...           15.108808    408780.848387             None
+...                         ...       ...           ...  ...                 ...              ...              ...
+1453  2017-12-24T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1454  2017-12-23T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1455  2017-12-22T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1456  2017-12-21T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1457  2017-12-20T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+
+[1458 rows x 23 columns]","                       datetime   project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  MakerDAO         total  ...           17.256411    406366.070458             None
+1     2021-12-15T00:00:00+00:00  MakerDAO         total  ...           16.769589    406272.072503             None
+2     2021-12-14T00:00:00+00:00  MakerDAO         total  ...           15.863425    409039.774817             None
+3     2021-12-13T00:00:00+00:00  MakerDAO         total  ...           15.317659    411576.106458             None
+4     2021-12-12T00:00:00+00:00  MakerDAO         total  ...           15.108808    408780.848387             None
+...                         ...       ...           ...  ...                 ...              ...              ...
+1453  2017-12-24T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1454  2017-12-23T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1455  2017-12-22T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1456  2017-12-21T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+1457  2017-12-20T00:00:00+00:00  MakerDAO         total  ...                 NaN              NaN             None
+
+[1458 rows x 23 columns]","                       datetime project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00    Aave         total  ...       790021.045921     96704.201786    940867.433983
+1     2021-12-15T00:00:00+00:00    Aave         total  ...       764151.772144     91554.185583    843874.490636
+2     2021-12-14T00:00:00+00:00    Aave         total  ...       756670.337712     88838.266158    777045.233633
+3     2021-12-13T00:00:00+00:00    Aave         total  ...       873973.721710    103436.199788    866893.109899
+4     2021-12-12T00:00:00+00:00    Aave         total  ...       816968.017015     95542.996999    852969.684144
+...                         ...     ...           ...  ...                 ...              ...              ...
+1453  2017-12-24T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1454  2017-12-23T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1455  2017-12-22T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1456  2017-12-21T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1457  2017-12-20T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+
+[1458 rows x 23 columns]","                       datetime project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00    Aave         total  ...       790021.045921     96704.201786    940867.433983
+1     2021-12-15T00:00:00+00:00    Aave         total  ...       764151.772144     91554.185583    843874.490636
+2     2021-12-14T00:00:00+00:00    Aave         total  ...       756670.337712     88838.266158    777045.233633
+3     2021-12-13T00:00:00+00:00    Aave         total  ...       873973.721710    103436.199788    866893.109899
+4     2021-12-12T00:00:00+00:00    Aave         total  ...       816968.017015     95542.996999    852969.684144
+...                         ...     ...           ...  ...                 ...              ...              ...
+1453  2017-12-24T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1454  2017-12-23T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1455  2017-12-22T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1456  2017-12-21T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+1457  2017-12-20T00:00:00+00:00    Aave         total  ...                 NaN              NaN              NaN
+
+[1458 rows x 23 columns]","                      datetime    project business_type business_line  ... revenue revenue_supply_side revenue_protocol  token_incentives
+0    2021-12-16T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+1    2021-12-15T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+2    2021-12-14T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+3    2021-12-13T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+4    2021-12-12T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+..                         ...        ...           ...           ...  ...     ...                 ...              ...               ...
+409  2020-11-02T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+410  2020-11-01T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+411  2020-10-31T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+412  2020-10-30T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+413  2020-10-29T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+
+[414 rows x 23 columns]","                      datetime    project business_type business_line  ... revenue revenue_supply_side revenue_protocol  token_incentives
+0    2021-12-16T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+1    2021-12-15T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+2    2021-12-14T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+3    2021-12-13T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+4    2021-12-12T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+..                         ...        ...           ...           ...  ...     ...                 ...              ...               ...
+409  2020-11-02T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+410  2020-11-01T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+411  2020-10-31T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+412  2020-10-30T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+413  2020-10-29T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+
+[414 rows x 23 columns]","                      datetime    project business_type business_line  ... revenue revenue_supply_side revenue_protocol  token_incentives
+0    2021-12-16T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+1    2021-12-15T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+2    2021-12-14T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+3    2021-12-13T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+4    2021-12-12T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+..                         ...        ...           ...           ...  ...     ...                 ...              ...               ...
+409  2020-11-02T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+410  2020-11-01T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+411  2020-10-31T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+412  2020-10-30T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+413  2020-10-29T00:00:00+00:00  Instadapp         total         total  ...    None                None             None              None
+
+[414 rows x 23 columns]","                      datetime   project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Compound         total  ...       749770.036461    104870.402524              0.0
+1    2021-12-15T00:00:00+00:00  Compound         total  ...       712356.524714     97316.211153              0.0
+2    2021-12-14T00:00:00+00:00  Compound         total  ...       717876.776288     99630.463780              0.0
+3    2021-12-13T00:00:00+00:00  Compound         total  ...       788607.631663    109954.770904              0.0
+4    2021-12-12T00:00:00+00:00  Compound         total  ...       812643.199130    112757.527475              0.0
+..                         ...       ...           ...  ...                 ...              ...              ...
+950  2019-05-11T00:00:00+00:00  Compound         total  ...            0.790758         0.000000              NaN
+951  2019-05-10T00:00:00+00:00  Compound         total  ...            0.600935         0.000000              NaN
+952  2019-05-09T00:00:00+00:00  Compound         total  ...            1.547049         0.000000              NaN
+953  2019-05-08T00:00:00+00:00  Compound         total  ...            0.964348         0.000000              NaN
+954  2019-05-07T00:00:00+00:00  Compound         total  ...            0.015879         0.000000              NaN
+
+[955 rows x 23 columns]","                      datetime  project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Uniswap         total  ...        4.167698e+06              0.0             None
+1    2021-12-15T00:00:00+00:00  Uniswap         total  ...        5.545188e+06              0.0             None
+2    2021-12-14T00:00:00+00:00  Uniswap         total  ...        4.005375e+06              0.0             None
+3    2021-12-13T00:00:00+00:00  Uniswap         total  ...        5.247145e+06              0.0             None
+4    2021-12-12T00:00:00+00:00  Uniswap         total  ...        3.130612e+06              0.0             None
+..                         ...      ...           ...  ...                 ...              ...              ...
+585  2020-05-10T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+586  2020-05-09T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+587  2020-05-08T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+588  2020-05-07T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+589  2020-05-06T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+
+[590 rows x 23 columns]","                      datetime  project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Uniswap         total  ...        4.167698e+06              0.0             None
+1    2021-12-15T00:00:00+00:00  Uniswap         total  ...        5.545188e+06              0.0             None
+2    2021-12-14T00:00:00+00:00  Uniswap         total  ...        4.005375e+06              0.0             None
+3    2021-12-13T00:00:00+00:00  Uniswap         total  ...        5.247145e+06              0.0             None
+4    2021-12-12T00:00:00+00:00  Uniswap         total  ...        3.130612e+06              0.0             None
+..                         ...      ...           ...  ...                 ...              ...              ...
+585  2020-05-10T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+586  2020-05-09T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+587  2020-05-08T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+588  2020-05-07T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+589  2020-05-06T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+
+[590 rows x 23 columns]","                      datetime  project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Uniswap         total  ...        4.167698e+06              0.0             None
+1    2021-12-15T00:00:00+00:00  Uniswap         total  ...        5.545188e+06              0.0             None
+2    2021-12-14T00:00:00+00:00  Uniswap         total  ...        4.005375e+06              0.0             None
+3    2021-12-13T00:00:00+00:00  Uniswap         total  ...        5.247145e+06              0.0             None
+4    2021-12-12T00:00:00+00:00  Uniswap         total  ...        3.130612e+06              0.0             None
+..                         ...      ...           ...  ...                 ...              ...              ...
+585  2020-05-10T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+586  2020-05-09T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+587  2020-05-08T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+588  2020-05-07T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+589  2020-05-06T00:00:00+00:00  Uniswap         total  ...                 NaN              NaN             None
+
+[590 rows x 23 columns]","                      datetime  project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Liquity         total  ...                   0      6323.107777             None
+1    2021-12-15T00:00:00+00:00  Liquity         total  ...                   0     95045.480711             None
+2    2021-12-14T00:00:00+00:00  Liquity         total  ...                   0      9688.728982             None
+3    2021-12-13T00:00:00+00:00  Liquity         total  ...                   0     61036.494886             None
+4    2021-12-12T00:00:00+00:00  Liquity         total  ...                   0     48939.418550             None
+..                         ...      ...           ...  ...                 ...              ...              ...
+251  2021-04-09T00:00:00+00:00  Liquity         total  ...                   0     51235.313433             None
+252  2021-04-08T00:00:00+00:00  Liquity         total  ...                   0     91234.470149             None
+253  2021-04-07T00:00:00+00:00  Liquity         total  ...                   0    191226.637164             None
+254  2021-04-06T00:00:00+00:00  Liquity         total  ...                   0    573787.816219             None
+255  2021-04-05T00:00:00+00:00  Liquity         total  ...                   0    576724.855816             None
+
+[256 rows x 23 columns]","                      datetime  project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Liquity         total  ...                   0      6323.107777             None
+1    2021-12-15T00:00:00+00:00  Liquity         total  ...                   0     95045.480711             None
+2    2021-12-14T00:00:00+00:00  Liquity         total  ...                   0      9688.728982             None
+3    2021-12-13T00:00:00+00:00  Liquity         total  ...                   0     61036.494886             None
+4    2021-12-12T00:00:00+00:00  Liquity         total  ...                   0     48939.418550             None
+..                         ...      ...           ...  ...                 ...              ...              ...
+251  2021-04-09T00:00:00+00:00  Liquity         total  ...                   0     51235.313433             None
+252  2021-04-08T00:00:00+00:00  Liquity         total  ...                   0     91234.470149             None
+253  2021-04-07T00:00:00+00:00  Liquity         total  ...                   0    191226.637164             None
+254  2021-04-06T00:00:00+00:00  Liquity         total  ...                   0    573787.816219             None
+255  2021-04-05T00:00:00+00:00  Liquity         total  ...                   0    576724.855816             None
+
+[256 rows x 23 columns]","                      datetime  project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Liquity         total  ...                   0      6323.107777             None
+1    2021-12-15T00:00:00+00:00  Liquity         total  ...                   0     95045.480711             None
+2    2021-12-14T00:00:00+00:00  Liquity         total  ...                   0      9688.728982             None
+3    2021-12-13T00:00:00+00:00  Liquity         total  ...                   0     61036.494886             None
+4    2021-12-12T00:00:00+00:00  Liquity         total  ...                   0     48939.418550             None
+..                         ...      ...           ...  ...                 ...              ...              ...
+251  2021-04-09T00:00:00+00:00  Liquity         total  ...                   0     51235.313433             None
+252  2021-04-08T00:00:00+00:00  Liquity         total  ...                   0     91234.470149             None
+253  2021-04-07T00:00:00+00:00  Liquity         total  ...                   0    191226.637164             None
+254  2021-04-06T00:00:00+00:00  Liquity         total  ...                   0    573787.816219             None
+255  2021-04-05T00:00:00+00:00  Liquity         total  ...                   0    576724.855816             None
+
+[256 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                       datetime    project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0     2021-12-16T00:00:00+00:00  Synthetix         total  ...                 0.0     12932.000309             None
+1     2021-12-15T00:00:00+00:00  Synthetix         total  ...                 0.0      5997.839794             None
+2     2021-12-14T00:00:00+00:00  Synthetix         total  ...                 0.0    108948.374030             None
+3     2021-12-13T00:00:00+00:00  Synthetix         total  ...                 0.0     88924.339711             None
+4     2021-12-12T00:00:00+00:00  Synthetix         total  ...                 0.0     17331.677820             None
+...                         ...        ...           ...  ...                 ...              ...              ...
+1362  2018-03-25T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1363  2018-03-24T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1364  2018-03-23T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1365  2018-03-22T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+1366  2018-03-21T00:00:00+00:00  Synthetix         total  ...                 NaN              NaN             None
+
+[1367 rows x 23 columns]","                      datetime project business_type business_line  ... revenue revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+1    2021-12-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+2    2021-12-14T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+3    2021-12-13T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+4    2021-12-12T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+..                         ...     ...           ...           ...  ...     ...                 ...              ...              ...
+241  2021-04-19T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+242  2021-04-18T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+243  2021-04-17T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+244  2021-04-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+245  2021-04-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+
+[246 rows x 23 columns]","                      datetime project business_type business_line  ... revenue revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+1    2021-12-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+2    2021-12-14T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+3    2021-12-13T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+4    2021-12-12T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+..                         ...     ...           ...           ...  ...     ...                 ...              ...              ...
+241  2021-04-19T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+242  2021-04-18T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+243  2021-04-17T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+244  2021-04-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+245  2021-04-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+
+[246 rows x 23 columns]","                      datetime project business_type business_line  ... revenue revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+1    2021-12-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+2    2021-12-14T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+3    2021-12-13T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+4    2021-12-12T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+..                         ...     ...           ...           ...  ...     ...                 ...              ...              ...
+241  2021-04-19T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+242  2021-04-18T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+243  2021-04-17T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+244  2021-04-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+245  2021-04-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+
+[246 rows x 23 columns]","                      datetime project business_type business_line  ... revenue revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+1    2021-12-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+2    2021-12-14T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+3    2021-12-13T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+4    2021-12-12T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+..                         ...     ...           ...           ...  ...     ...                 ...              ...              ...
+241  2021-04-19T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+242  2021-04-18T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+243  2021-04-17T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+244  2021-04-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+245  2021-04-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+
+[246 rows x 23 columns]","                      datetime project business_type business_line  ... revenue revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+1    2021-12-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+2    2021-12-14T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+3    2021-12-13T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+4    2021-12-12T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+..                         ...     ...           ...           ...  ...     ...                 ...              ...              ...
+241  2021-04-19T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+242  2021-04-18T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+243  2021-04-17T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+244  2021-04-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+245  2021-04-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+
+[246 rows x 23 columns]","                      datetime project business_type business_line  ... revenue revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+1    2021-12-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+2    2021-12-14T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+3    2021-12-13T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+4    2021-12-12T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+..                         ...     ...           ...           ...  ...     ...                 ...              ...              ...
+241  2021-04-19T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+242  2021-04-18T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+243  2021-04-17T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+244  2021-04-16T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+245  2021-04-15T00:00:00+00:00    Opyn         total         total  ...    None                None             None             None
+
+[246 rows x 23 columns]","                      datetime       project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  PoolTogether         total  ...                 NaN              NaN             None
+1    2021-12-15T00:00:00+00:00  PoolTogether         total  ...            0.000000         0.000000             None
+2    2021-12-14T00:00:00+00:00  PoolTogether         total  ...           86.615626        86.615626             None
+3    2021-12-13T00:00:00+00:00  PoolTogether         total  ...         3511.941216      3511.941216             None
+4    2021-12-12T00:00:00+00:00  PoolTogether         total  ...                 NaN              NaN             None
+..                         ...           ...           ...  ...                 ...              ...              ...
+372  2020-11-27T00:00:00+00:00  PoolTogether         total  ...         1336.085248         0.000000             None
+373  2020-11-20T00:00:00+00:00  PoolTogether         total  ...         1622.094284         0.000000             None
+374  2020-11-13T00:00:00+00:00  PoolTogether         total  ...         2476.641214         0.000000             None
+375  2020-11-06T00:00:00+00:00  PoolTogether         total  ...         1460.421010         0.000000             None
+376  2020-10-30T00:00:00+00:00  PoolTogether         total  ...         1622.215974         0.000000             None
+
+[377 rows x 23 columns]","                      datetime       project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  PoolTogether         total  ...                 NaN              NaN             None
+1    2021-12-15T00:00:00+00:00  PoolTogether         total  ...            0.000000         0.000000             None
+2    2021-12-14T00:00:00+00:00  PoolTogether         total  ...           86.615626        86.615626             None
+3    2021-12-13T00:00:00+00:00  PoolTogether         total  ...         3511.941216      3511.941216             None
+4    2021-12-12T00:00:00+00:00  PoolTogether         total  ...                 NaN              NaN             None
+..                         ...           ...           ...  ...                 ...              ...              ...
+372  2020-11-27T00:00:00+00:00  PoolTogether         total  ...         1336.085248         0.000000             None
+373  2020-11-20T00:00:00+00:00  PoolTogether         total  ...         1622.094284         0.000000             None
+374  2020-11-13T00:00:00+00:00  PoolTogether         total  ...         2476.641214         0.000000             None
+375  2020-11-06T00:00:00+00:00  PoolTogether         total  ...         1460.421010         0.000000             None
+376  2020-10-30T00:00:00+00:00  PoolTogether         total  ...         1622.215974         0.000000             None
+
+[377 rows x 23 columns]","                      datetime       project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  PoolTogether         total  ...                 NaN              NaN             None
+1    2021-12-15T00:00:00+00:00  PoolTogether         total  ...            0.000000         0.000000             None
+2    2021-12-14T00:00:00+00:00  PoolTogether         total  ...           86.615626        86.615626             None
+3    2021-12-13T00:00:00+00:00  PoolTogether         total  ...         3511.941216      3511.941216             None
+4    2021-12-12T00:00:00+00:00  PoolTogether         total  ...                 NaN              NaN             None
+..                         ...           ...           ...  ...                 ...              ...              ...
+372  2020-11-27T00:00:00+00:00  PoolTogether         total  ...         1336.085248         0.000000             None
+373  2020-11-20T00:00:00+00:00  PoolTogether         total  ...         1622.094284         0.000000             None
+374  2020-11-13T00:00:00+00:00  PoolTogether         total  ...         2476.641214         0.000000             None
+375  2020-11-06T00:00:00+00:00  PoolTogether         total  ...         1460.421010         0.000000             None
+376  2020-10-30T00:00:00+00:00  PoolTogether         total  ...         1622.215974         0.000000             None
+
+[377 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]","                      datetime     project business_type  ... revenue_supply_side revenue_protocol token_incentives
+0    2021-12-16T00:00:00+00:00  Polymarket         total  ...         3721.868337                0             None
+1    2021-12-15T00:00:00+00:00  Polymarket         total  ...         3540.981825                0             None
+2    2021-12-14T00:00:00+00:00  Polymarket         total  ...         4913.427378                0             None
+3    2021-12-13T00:00:00+00:00  Polymarket         total  ...         4771.644752                0             None
+4    2021-12-12T00:00:00+00:00  Polymarket         total  ...         4137.231641                0             None
+..                         ...         ...           ...  ...                 ...              ...              ...
+433  2020-10-07T00:00:00+00:00  Polymarket         total  ...            2.628243                0             None
+434  2020-10-06T00:00:00+00:00  Polymarket         total  ...            1.726249                0             None
+435  2020-10-05T00:00:00+00:00  Polymarket         total  ...            0.317608                0             None
+436  2020-10-04T00:00:00+00:00  Polymarket         total  ...            0.200000                0             None
+437  2020-10-02T00:00:00+00:00  Polymarket         total  ...            3.000000                0             None
+
+[438 rows x 23 columns]"
