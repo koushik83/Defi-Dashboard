@@ -4,13 +4,8 @@ from tokentermscript import tokenterm
 df = pd.read_csv("/Users/avisihag/Desktop/Crypto/filea.csv")
 
 df1 = df.groupby(["category"]).head(2).reset_index(drop=True)
-#print(df1)
 
 grouped_df = df.groupby('category')
-
-# for key, item in grouped_df:
-#     print(grouped_df.get_group(key), "\n\n")
-
 
 dictionary = tokenterm(df1)
 
