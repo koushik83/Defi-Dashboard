@@ -1,9 +1,12 @@
 import pandas as pd
 from tokentermscript import tokenterm
 
+# reads from the master list from Defillama of all protocols 
+
 df = pd.read_csv("/Users/avisihag/Desktop/Crypto/filea.csv")
 
-df1 = df.groupby(["category"]).head(2).reset_index(drop=True)
+# Select the top 20 of each 
+df1 = df.groupby(["category"]).head(20).reset_index(drop=True)
 
 grouped_df = df.groupby('category')
 
